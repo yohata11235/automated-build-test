@@ -1,3 +1,3 @@
-FROM dockersample/static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Yusuke Ohata"
 
